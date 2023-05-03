@@ -1,10 +1,10 @@
 {
   "sitename": "Theodore Yemc",
-  "sitedescription": "Consulting in the applied arts.",
+  "sitedescription": "Consulting in the applied arts",
   "siteicon": "/images/uploads/icon.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": false,
   "altlayout": false,
   "menu": [],
-  "linkcolor": "#000000"
+  "linkcolor": "#e5e5e5"
 }
